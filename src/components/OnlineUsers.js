@@ -1,7 +1,6 @@
 import "./OnlineUsers.css";
 
 import React from "react";
-import { projectFirestore } from "../firebase/config";
 import { useCollection } from "../hooks/useCollection";
 import Avatar from "./Avatar";
 
